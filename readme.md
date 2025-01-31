@@ -1,6 +1,6 @@
 ## flip
 
-cli tool to quickly convert an image to a gif.
+cli tool to quickly convert an image to a gif, with some other goodies.
 
 that's all it does.
 
